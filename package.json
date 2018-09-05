@@ -1,6 +1,6 @@
 {
   "name": "@skyux/assets",
-  "version": "3.0.0-alpha.0",
+  "version": "3.0.0",
   "description": "SKY UX Omnibar Interop",
   "main": "bundles/bundle.umd.js",
   "module": "index.ts",
