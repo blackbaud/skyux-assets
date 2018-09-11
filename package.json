@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/blackbaud/skyux-assets#readme",
   "peerDependencies": {},
+  "dependencies": {},
   "devDependencies": {
     "@angular/animations": "4.3.6",
     "@angular/common": "4.3.6",
