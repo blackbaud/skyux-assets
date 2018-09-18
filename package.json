@@ -1,6 +1,6 @@
 {
   "name": "@skyux/assets",
-  "version": "3.0.0-alpha.1",
+  "version": "3.0.0-alpha.2",
   "description": "SKY UX Assets",
   "main": "bundles/bundle.umd.js",
   "module": "index.ts",
@@ -25,9 +25,7 @@
     "url": "https://github.com/blackbaud/skyux-assets/issues"
   },
   "homepage": "https://github.com/blackbaud/skyux-assets#readme",
-  "peerDependencies": {
-    "@angular/core": "^4.3.6"
-  },
+  "peerDependencies": {},
   "dependencies": {},
   "devDependencies": {
     "@angular/animations": "4.3.6",
@@ -42,7 +40,7 @@
     "@angular/router": "4.3.6",
     "@blackbaud/auth-client": "2.7.0",
     "@blackbaud/skyux": "2.24.0",
-    "@blackbaud/skyux-builder": "1.20.2",
+    "@blackbaud/skyux-builder": "1.21.0",
     "core-js": "2.4.1",
     "normalize-scss": "5.0.3",
     "rxjs": "5.4.3",
