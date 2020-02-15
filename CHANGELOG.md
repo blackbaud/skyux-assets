@@ -1,3 +1,7 @@
+# 4.0.0-rc.0 (2020-02-15)
+
+- Transpiled to the Angular Package Format using `ng-packagr`. [#11](https://github.com/blackbaud/skyux-assets/pull/11)
+
 # 3.1.0 (2019-07-16)
 
 - Added method `getAllUrls` to `SkyAppAssetsService`. [#5](https://github.com/blackbaud/skyux-assets/pull/5)
