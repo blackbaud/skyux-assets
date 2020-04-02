@@ -1,3 +1,7 @@
+# 4.0.0-rc.1 (2020-04-01)
+
+- Upgraded the development dependencies. [#14](https://github.com/blackbaud/skyux-assets/pull/14)
+
 # 4.0.0-rc.0 (2020-02-15)
 
 - Updated the pipeline to transpile to the [Angular Package Format](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview). [#11](https://github.com/blackbaud/skyux-assets/pull/11)
