@@ -22,7 +22,6 @@
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
     "@blackbaud/auth-client": "^2.48.0",
-    "@skyux/assets": "^5.0.0-beta.0",
     "@skyux/config": "^5.0.0-beta.1",
     "@skyux/core": "^5.0.0-beta.9",
     "@skyux/http": "^5.0.0-beta.0",
