@@ -1,6 +1,6 @@
 # 5.0.0-beta.2 (2021-09-03)
 
-- Migrated to Angular CLI. [#30](https://github.com/blackbaud/skyux-assets/pull/30)
+- Migrated to Angular CLI. [#29](https://github.com/blackbaud/skyux-assets/pull/29)
 
 # 5.0.0-beta.1 (2021-08-27)
 
