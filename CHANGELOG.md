@@ -1,3 +1,7 @@
+# 5.0.0-beta.2 (2021-09-03)
+
+- Enabled Ivy's `partial` compilation mode. [#29](https://github.com/blackbaud/skyux-assets/pull/29)
+
 # 5.0.0-beta.1 (2021-08-27)
 
 - Migrated to Angular CLI. [#27](https://github.com/blackbaud/skyux-assets/pull/27)
